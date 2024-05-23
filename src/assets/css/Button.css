@@ -1,0 +1,21 @@
+.btn-y,.btn-n{
+    width: 80px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 30px;
+    font-weight: 500;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: transparent;
+}
+.btn-y{
+    background-color: #ce1e39;
+    color: white;
+}
+.btn-n{
+    background-color: #0a66a2;
+    color: white;
+}
+.btn-n:hover{
+    animation: forwards;
+}
